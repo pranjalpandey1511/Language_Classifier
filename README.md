@@ -18,7 +18,7 @@ according to the learning type.(give the filename u want to store the prediction
 Learning Type – It specifies the learning algorithim “dt” for decision Tree “ada” for adaboost
  
 **b) To predict the data: predict <hypothesis> <file>**
-predict – by providing predict keyword it will start the prediction process
+ predict – by providing predict keyword it will start the prediction process
  
 hypothesis – It contains the file through which prediction will be performed, it will contain the object
 according to the learning type (filename where you have stored the prediction )
