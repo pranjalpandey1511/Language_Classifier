@@ -1,9 +1,9 @@
 # Machine-Learning-Projects
  Repository of various machine learning projects.
  
- ##1)Language Classifier
+ ## 1)Language Classifier
 
-###How to use the Code: -
+### How to use the Code: -
 Training and testing data is stored in Language Classfier folder with the name Train.dat and test.dat.
 
 It has two entry points (different modules or command-line args):
