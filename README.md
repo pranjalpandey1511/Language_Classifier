@@ -8,8 +8,8 @@ It’s a classification model which differentiate two languages English and Dutc
 Training and testing data is stored in Language Classfier folder with the name Train.dat and test.dat.
 
 It has two entry points (different modules or command-line args):  
-**a) To train the data: train <examples> <hypothesisOut> <learning-type>**
 
+**a) To train the data: train <examples> <hypothesisOut> <learning-type>**  
 train – by providing train keyword it will start the training procedure
 
 hypothesisOut – It contains the file through which prediction will be performed, it will contain the object
@@ -17,8 +17,7 @@ according to the learning type.(give the filename u want to store the prediction
 
 Learning Type – It specifies the learning algorithim “dt” for decision Tree “ada” for adaboost
  
-**b) To predict the data: predict <hypothesis> <file>**
-
+**b) To predict the data: predict <hypothesis> <file>**  
 predict – by providing predict keyword it will start the prediction process
  
 hypothesis – It contains the file through which prediction will be performed, it will contain the object
