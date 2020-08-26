@@ -1,7 +1,4 @@
-# Machine-Learning-Projects
- Repository of various machine learning projects.
- 
- ## 1)Language Classifier<br/>
+ # 1)Language Classifier<br/>
 It’s a classification model which differentiate two languages English and Dutch. This model has been implement using two different algorithms namely decision tree and adaboost. The two different technique has been implemented using python from scratch. It predicts the language with 95% accuracy with adaboost and 97% accuracy with decision tree.
 
 ### How to use the Code: -
